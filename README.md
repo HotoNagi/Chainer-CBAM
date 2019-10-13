@@ -1,4 +1,3 @@
-# Chainer-CBAM
 # Chainer-CBAM(Convolutional Block Attention Module)
 
 ## Training
